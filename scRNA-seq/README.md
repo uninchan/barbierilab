@@ -1,8 +1,9 @@
 # scRNA-seq
-
+# Workflow
+# Pre-processing
 ## Pipelines
 
-### Cell Ranger
+## Cell Ranger
 #### Introduction
 [What is Cell Ranger?](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)
 
@@ -17,3 +18,9 @@
 
 #### Understading Outputs
 [Overview](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/count)
+
+## nf-core
+[nf-core/scrnaseq](https://nf-co.re/scrnaseq/2.4.1) is a bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data
+
+# Downstream analysis
+## [Seurat](https://satijalab.org/seurat/)
