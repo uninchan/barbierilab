@@ -10,6 +10,9 @@ Can I analyze only the ATAC data from my single cell multiome experiment? [Yes](
 #### [`cellranger-atac count`](https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/using/count)
 [scatacseq.sh](https://github.com/uninchan/barbierilab/blob/main/scMultiome/scatacseq.sh)
 
+#### Understanding Outputs
+[Web Summary](https://support.10xgenomics.com/single-cell-atac/software/pipelines/latest/output/summary) (`cellranger-atac count`)
+
 # Downstream analysis
 
 
