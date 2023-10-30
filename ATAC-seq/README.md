@@ -1,5 +1,7 @@
 # ATAC-seq
 # Workflow
+## Data acquisition
+To download GEO data ([fetchngs.sh](https://github.com/uninchan/barbierilab/blob/main/ATAC-seq/fetchngs.sh))
 ## Preprocessing
 ### Pipelines
 [nf-core](https://nf-co.re/atacseq/2.1.2)
