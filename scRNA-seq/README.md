@@ -1,5 +1,8 @@
 # scRNA-seq
 # Workflow
+[Pre-processing](https://github.com/uninchan/barbierilab/tree/main/scRNA-seq#pre-processing)
+
+[Downstream analysis](https://github.com/uninchan/barbierilab/tree/main/scRNA-seq#downstream-analysis)
 # Pre-processing
 ## Pipelines
 
