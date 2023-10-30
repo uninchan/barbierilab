@@ -16,6 +16,7 @@
 #### Running pipelines
 [Gene Expression (count)](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/count)
 
+`cellranger count` ([scrnaseq.sh](https://github.com/uninchan/barbierilab/blob/main/scRNA-seq/scrnaseq.sh))
 #### Understading Outputs
 [Overview](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/count)
 
