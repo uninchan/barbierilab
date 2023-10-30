@@ -1,11 +1,13 @@
 # scRNA-seq
 # Workflow
-[Pre-processing](#pre-processing)
+- [Pre-processing](#pre-processing)
 
-[Downstream analysis](#downstream-analysis)
+- [Downstream analysis](#downstream-analysis)
 # Pre-processing
 ## Pipelines
+- [Cell Ranger](#cell-ranger)
 
+- [nf-core](#nf-core)
 ## Cell Ranger
 #### Introduction
 [What is Cell Ranger?](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)
