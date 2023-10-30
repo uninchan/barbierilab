@@ -1,6 +1,6 @@
 # Barbieri Lab
 The codes used for Barbieri Lab in WCM's HPC cluster via Slurm
-## Protocols
+## Contents
 ### [ATAC-seq](https://github.com/uninchan/barbierilab/tree/main/ATAC-seq)
 The assay for transposase-accessible chromatin with sequencing
 ### [ChIP-seq](https://github.com/uninchan/barbierilab/tree/main/ChIP-seq)
