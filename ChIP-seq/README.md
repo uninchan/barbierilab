@@ -1,8 +1,11 @@
 # ChIP-seq
 # Workflow
+## Data acquisition
+To fetch metadata and raw FastQ files from public and private databases by using `nf-core/fetchngs` atacseq pipeline ([fetchngs.sh](https://github.com/uninchan/barbierilab/blob/main/ATAC-seq/fetchngs.sh))
 ## Pre-processing
 ### Pipelines
 [ENDCODE](https://github.com/ENCODE-DCC/chip-seq-pipeline2)
+
 [nf-core](https://nf-co.re/chipseq/2.0.0)
 
 ## Downstream analysis
