@@ -15,10 +15,10 @@ set -e
 # Update the PATH to include the directory containing cellranger-atac-2.1.0
 #export PATH=/PATH_DIR/cellranger-atac-2.1.0:$PATH
 
-cellranger-atac count --id=8152_ATAC \
+cellranger-atac count --id=sample_id \
                         --reference=/reference_dir/refdata-cellranger-arc-mm10-2020-A-2.0.0 \
                         --fastqs=<fastq_dir> \
-                        --sample=mysample \
+                        --sample=sample_name \
                         --chemistry=ARC-v1 \
 			                  --localcores=8 \
                         --localmem=64
