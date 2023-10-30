@@ -10,7 +10,7 @@
 
 Differential binding analysis of ChIP-Seq peak data
 
-### Pathway analysis
+### Motif analysis
 [Homer](http://homer.ucsd.edu/homer/)
 
 Software for motif discovery and next generation sequencing analysis
