@@ -6,6 +6,10 @@ To download GEO data ([fetchngs.sh](https://github.com/uninchan/barbierilab/blob
 ### Pipelines
 [nf-core](https://nf-co.re/atacseq/2.1.2)
 
+ATAC-seq peak-calling and QC analysis pipeline
+
+`nf-core/atac-seq` ([atacseq.sh](https://github.com/uninchan/barbierilab/blob/main/ATAC-seq/atacseq.sh))
+
 ## Downstream analysis
 ### Differential analysis
 [DiffBind](https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf)
