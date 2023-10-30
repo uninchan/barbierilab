@@ -1,6 +1,8 @@
 # RNA-seq
 
 # Workflows
+# Data acquisition
+To download GEO data ([fetchngs.sh](https://github.com/uninchan/barbierilab/blob/main/RNA-seq/fetchngs.sh))
 # Pre-processing
 ## Pipelines
 [nf-core](https://nf-co.re/rnaseq/3.12.0)
