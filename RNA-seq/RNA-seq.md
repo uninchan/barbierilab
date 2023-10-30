@@ -12,7 +12,9 @@
 
 ## Pathway analysis
 ### [clusterProfiler](https://guangchuangyu.github.io/software/clusterProfiler/)
-statistical analysis and visualization of functional profiles for genes and gene clusters
+Statistical analysis and visualization of functional profiles for genes and gene clusters
 
 ### [Gene Set Enrichment Analysis (GSEA)](https://www.gsea-msigdb.org/gsea/index.jsp)
+A computational method that determines whether an a priori defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
+
 [Molecular Signatures Database](https://www.gsea-msigdb.org/gsea/msigdb)
