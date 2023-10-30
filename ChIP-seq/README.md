@@ -11,6 +11,6 @@
 [DiffBind](https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf)
 Differential binding analysis of ChIP-Seq peak data
 
-## Pathway analysis
+## Motif analysis
 [Homer](http://homer.ucsd.edu/homer/)
 Software for motif discovery and next generation sequencing analysis
