@@ -2,12 +2,11 @@
 
 # Workflows
 # Data acquisition
-To fetch metadata and raw FastQ files from public and private databases ([fetchngs.sh](https://github.com/uninchan/barbierilab/blob/main/RNA-seq/fetchngs.sh))
+To fetch metadata and raw FastQ files from public and private databases ([nf-co.re](https://nf-co.re/fetchngs/1.11.0), [GitHub](https://github.com/nf-core/fetchngs), [fetchngs.sh](https://github.com/uninchan/barbierilab/blob/main/RNA-seq/fetchngs.sh))
 # Pre-processing
 ## Pipelines
-[nf-core](https://nf-co.re/rnaseq/3.12.0)
 
-`nf-core/rnaseq` ([rnaseq.sh](https://github.com/uninchan/barbierilab/blob/main/RNA-seq/rnaseq.sh))
+`nf-core/rnaseq` ([nf-co.re](https://nf-co.re/rnaseq/3.12.0), [GitHub](https://github.com/nf-core/rnaseq), [rnaseq.sh](https://github.com/uninchan/barbierilab/blob/main/RNA-seq/rnaseq.sh))
 
 # Downstream Analysis
 ## Differential Gene Expression (DGE) analysis
