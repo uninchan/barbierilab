@@ -1,5 +1,7 @@
 # Barbieri Lab
-The codes used for Barbieri Lab in WCM's HPC cluster via Slurm
+The bioinformatics pipelines are being used for Barbieri Lab
+and
+the codes are being used in WCM's HPC cluster via Slurm
 ## Contents
 ### [ATAC-seq](https://github.com/uninchan/barbierilab/tree/main/ATAC-seq)
 The assay for transposase-accessible chromatin with sequencing
