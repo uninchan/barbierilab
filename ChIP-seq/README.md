@@ -8,11 +8,14 @@ To fetch metadata and raw FastQ files from public and private databases by using
 
 `nf-core/chipseq` ChIP-seq peak-calling, QC and differential analysis pipeline ([nf-co.re](https://nf-co.re/chipseq/dev), [GitHub](https://github.com/nf-core/chipseq))
 
+Usage: `nf-core/chipseq` by setting the `--narrow_peak` parameter ([chipseq.sh](https://github.com/uninchan/barbierilab/blob/main/ChIP-seq/chipseq.sh))
+
 [No control sample?](https://github.com/nf-core/chipseq/issues/126)
 
 `nf-core/atacseq` ATAC-seq peak-calling and QC analysis pipeline ([nf-co.re](https://nf-co.re/atacseq/2.1.2), [GitHub](https://github.com/nf-core/atacseq))
 
 Usage: `nf-core/atacseq` by setting the `--narrow_peak` parameter ([chipseq-atac.sh](https://github.com/uninchan/barbierilab/blob/main/ChIP-seq/chipseq-atac.sh))
+
 ## Downstream analysis
 ## Differential analysis
 ### Pipelines
