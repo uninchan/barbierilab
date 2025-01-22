@@ -22,6 +22,13 @@ Usage: `nf-core/atacseq` by setting the `--narrow_peak` parameter ([chipseq-atac
 [DiffBind](https://bioconductor.org/packages/release/bioc/vignettes/DiffBind/inst/doc/DiffBind.pdf)
 Differential binding analysis of ChIP-Seq peak data
 
+## Relationships between datasets
+### [BEDOPS](https://bedops.readthedocs.io/en/latest/content/reference/set-operations/bedops.html)
+A core tool for finding relationships between two or more genomic datasets.
+
+### [Intervene](https://intervene.readthedocs.io/en/latest/examples.html)
+To generate different types of set intersection plots.
+
 ## Motif analysis
 ### [Homer](http://homer.ucsd.edu/homer/)
 Software for motif discovery and next generation sequencing analysis
